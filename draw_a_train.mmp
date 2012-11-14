@@ -633,7 +633,7 @@
                   </effect>
                   <effect autoquit_numerator="4" autoquit_denominator="4" syncmode="0" autoquit="1" gate="0" name="ladspaeffect" wet="1" on="1">
                     <ladspacontrols port10="11.4" port00="11.4" port11="0" port12="0" port02="0" port02link="1" link="1" port00link="1" ports="6" port01link="1">
-                      <port01 value="96" id="519157"/>
+                      <port01 value="0" id="519157"/>
                     </ladspacontrols>
                     <key>
                       <attribute value="tap_tremolo" name="file"/>
