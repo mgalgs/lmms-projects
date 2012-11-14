@@ -3,10 +3,10 @@
 <multimedia-project version="1.0" creator="Linux MultiMedia Studio (LMMS)" creatorversion="0.4.10" type="song">
   <head timesig_numerator="8" mastervol="100" timesig_denominator="4" bpm="160" masterpitch="0"/>
   <song>
-    <trackcontainer width="682" x="18" y="23" maximized="0" height="419" visible="1" type="song" minimized="0">
+    <trackcontainer width="682" x="20" y="15" maximized="0" height="419" visible="1" type="song" minimized="0">
       <track muted="0" type="1" name="Beat/Bassline 0">
         <bbtrack>
-          <trackcontainer width="966" x="327" y="35" maximized="0" height="484" visible="1" type="bbtrackcontainer" minimized="0">
+          <trackcontainer width="966" x="235" y="104" maximized="0" height="484" visible="1" type="bbtrackcontainer" minimized="0">
             <track muted="0" type="0" name="Default preset">
               <instrumenttrack pan="0" fxch="0" pitch="0" basenote="57" vol="100">
                 <instrument name="tripleoscillator">
@@ -68,7 +68,7 @@
               <pattern steps="32" muted="0" type="0" name="snaph01.ogg" pos="4992" len="384" frozen="0"/>
             </track>
             <track muted="0" type="0" name="kick02.ogg">
-              <instrumenttrack pan="0" fxch="0" pitch="0" basenote="57" vol="100">
+              <instrumenttrack pan="0" fxch="0" pitch="0" basenote="57" vol="95.9">
                 <instrument name="audiofileprocessor">
                   <audiofileprocessor reversed="0" looped="0" eframe="1" sframe="0" src="drums/kick02.ogg" amp="100"/>
                 </instrument>
@@ -775,7 +775,6 @@
       </track>
       <track muted="0" type="1" name="outro beat">
         <bbtrack/>
-        <bbtco muted="0" name="" pos="1152" color="4282417407" len="384"/>
         <bbtco muted="0" name="" pos="8832" color="4282417407" len="384"/>
       </track>
       <track muted="0" type="1" name="one string">
@@ -1122,7 +1121,6 @@
       </track>
       <track muted="0" type="1" name="flutey glue">
         <bbtrack/>
-        <bbtco muted="0" name="" pos="2304" color="4282417407" len="768"/>
         <bbtco muted="0" name="" pos="3840" color="4282417407" len="768"/>
         <bbtco muted="0" name="" pos="3072" color="4282417407" len="768"/>
       </track>
@@ -1134,9 +1132,7 @@
       </track>
       <track muted="0" type="1" name="flutey zip up">
         <bbtrack/>
-        <bbtco muted="0" name="" pos="2688" color="4282417407" len="384"/>
         <bbtco muted="0" name="" pos="4224" color="4282417407" len="384"/>
-        <bbtco muted="0" name="" pos="4992" color="4282417407" len="384"/>
         <bbtco muted="0" name="" pos="5760" color="4282417407" len="384"/>
         <bbtco muted="0" name="" pos="7296" color="4282417407" len="384"/>
       </track>
